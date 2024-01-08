@@ -57,7 +57,7 @@ def invisible_cloak():
                             cv.VideoWriter_fourcc(*'MJPG'), 
                             10, (640, 480)) 
     while True:
-        bg=cv.imread('me16.jpg')
+        bg=cv.imread('me16.jpg')  # replace me6.jpg with your desired background photo
        
 
         frame=cam.read()[1]
