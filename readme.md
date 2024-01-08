@@ -12,8 +12,10 @@ This project implements a simple "invisible cloak" effect using OpenCV. The conc
 
 - Python 3.x
 - OpenCV library (`pip install opencv-python`)
-
-
+## Screenshots
+![Alt text](./ss1.png)
+![Alt text](./ss2.png)
+![Alt text](./ss3.png)
 <video width="640" height="480" controls>
   <source src="./testing.mp4" type="video/mp4">
   
